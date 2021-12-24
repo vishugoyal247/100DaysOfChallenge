@@ -1,5 +1,5 @@
 # 100DaysOfChallenge
-Let's Play with Code
+*Let's Play with Code*
 
 ‼️ Day 1 
-Identifiers
+Identifiers and its Rules
