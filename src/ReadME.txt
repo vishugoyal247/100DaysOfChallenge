@@ -1,3 +1,0 @@
-Day 1 :
-
-Indentifiers and its Rules...
