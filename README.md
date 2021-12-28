@@ -10,3 +10,9 @@
      > - ### Integral Datatypes
      > - ### Floating Datatypes
      > - ### Non-Numeric Datatypes
+* ## !! DAY 3 Literals
+     > - ### Integer and Floating Literals
+     > - ### Boolean and char Literals
+     > - ### String and Binary Literals
+
+
