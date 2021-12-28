@@ -5,7 +5,7 @@ public class BooleanAndCharLiterals
 
     public static void main(String[] args)
     {
-        // boolean
+          // boolean
           boolean a = true;
 //        boolean b = 0;                            // CE: provided int
 //        boolean c = True;                         // CE: can not resolve symbol
@@ -18,10 +18,10 @@ public class BooleanAndCharLiterals
 
         // char
         char ch1 = 'a';
-//      char ch2 = b;                               // CE: can't not resolve a symbol
-//      char ch3 = "a";                             // CE: provided String
-//      char ch4 = 'ab';                            //too many characters in character literals
-        char ch5 = 97;                              // type conversion is done by implicit
+//      char ch2 = b;                                 // CE: can't not resolve a symbol
+//      char ch3 = "a";                               // CE: provided String
+//      char ch4 = 'ab';                              //too many characters in character literals
+        char ch5 = 97;                                // type conversion is done by implicit
 
           char ch6 = 65 | 66 | 67;
           char ch7 = 077;
