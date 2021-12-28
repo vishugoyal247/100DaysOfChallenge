@@ -11,7 +11,7 @@
      > - ### Integral Datatypes
      > - ### Floating Datatypes
      > - ### Non-Numeric Datatypes
-* ## !! DAY 3 Literals
+* ## !! DAY 3 [Literals](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day3)
      > - ### Integer and Floating Literals
      > - ### Boolean and char Literals
      > - ### String and Binary Literals
