@@ -9,7 +9,7 @@ package Day1;
 //[ $ ]
 //[ _ with any alphabet or number ]
 
-public class Code2
+public class Identifiers
 {
     public static void main(String[] args)
     {
