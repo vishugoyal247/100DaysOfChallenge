@@ -7,10 +7,10 @@ public class BooleanAndCharLiterals
     {
           // boolean
           boolean a = true;
-//        boolean b = 0;                            // CE: provided int
-//        boolean c = True;                         // CE: can not resolve symbol
-//        boolean d = "true";                       // CE: provided String
-//        boolean e ="True";                        // CE: provided String
+//        boolean b = 0;                             // CE: provided int
+//        boolean c = True;                          // CE: can not resolve symbol
+//        boolean d = "true";                        // CE: provided String
+//        boolean e ="True";                         // CE: provided String
 
 
 
