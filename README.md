@@ -15,5 +15,9 @@
      > - ### Integer and Floating Literals
      > - ### Boolean and char Literals
      > - ### String and Binary Literals
+* ## !! DAY 4 [Array](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day4)
+     > - ### Array (Declare,create,intialize)
+     > - ### length vs length() & anonymous array
+     > - ### array element and variable assignment
 
 
