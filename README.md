@@ -23,5 +23,10 @@
      > - ### Array element Assignment
      > - ### Array variable Assignment
      > - ### Complete array Code 
+* ## DAY 6 [Types of Variables](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day6)
+     > - ### Instance Variables
+     > - ### Static Variables
+     > - ### Local Variables
+
 
 
