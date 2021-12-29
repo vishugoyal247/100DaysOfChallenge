@@ -19,6 +19,7 @@
      > - ### Declare,create,intialize array
      > - ### length vs length()
 * ## DAY 5 [Array Part 2](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day5)
+     > - ### Anonymous Array
      > - ### Array element Assignment
      > - ### Array variable Assignment
      > - ### Complete array Code 
