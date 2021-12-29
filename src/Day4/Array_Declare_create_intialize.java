@@ -111,7 +111,7 @@ public class Array_Declare_create_intialize
         int[ ][ ] arr2 = new int[1][2];
         System.out.println(arr2);          //  [[I@214c265e
         System.out.println(arr2[0]);       //  [I@448139f0
-        System.out.println(arr2[0][0])     //  0
+        System.out.println(arr2[0][0]);     //  0
         System.out.println(arr2[0][1]);    //  0
 
 
