@@ -27,6 +27,7 @@
      > - ### Instance Variables
      > - ### Static Variables
      > - ### Local Variables
+     > - ### Primitive and Reference Variable
 
 
 
