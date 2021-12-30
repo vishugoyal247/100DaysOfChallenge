@@ -28,6 +28,11 @@
      > - ### Static Variables
      > - ### Local Variables
      > - ### Primitive and Reference Variable
+* ## DAY 7 [Types of Variables](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day7)
+     > - ### 
+     > - ### 
+     > - ### 
+     > - ### 
 
 
 
