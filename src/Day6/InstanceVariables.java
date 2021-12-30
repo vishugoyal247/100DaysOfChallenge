@@ -15,6 +15,7 @@ public class InstanceVariables
     int x;            // Instance variable with by default 0 value.
     String name;      // Instance variable with by default null value.
     boolean b;
+    byte bt;
 
 
     public static void main(String[] args)
@@ -46,7 +47,8 @@ public class InstanceVariables
         name = "Etisha Jain";        //assign to customize value the instance name variable
         b = true;                    //assign to customize value the instance b variable
         System.out.println(name);
-        System.out.println(b);
+        System.out.println(b);       // boolean value
+        System.out.println(bt);      // byte value
     }
 
 
