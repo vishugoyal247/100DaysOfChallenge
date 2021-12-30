@@ -12,9 +12,10 @@ public class StaticVariable
                          and hence scope of the static variable is same as the scope of the .class file...
                          Static variable is stored on the Stack memory...
                          Static area will execute before the instance area
-                         JVM also provide by default value to the static variable...   
+                         JVM also provide by default value to the static variable...
 
      */
+
 
     static int x;
     static String name;
@@ -28,11 +29,15 @@ public class StaticVariable
      */
 
     {
-        StaticVariable sv = new StaticVariable();
         System.out.println(name);                          // access directly inside the instance area
         System.out.println(StaticVariable.name);           // access with class name inside the instance area
-        System.out.println(sv.name);                       // access with object inside the instance area
-        System.out.println(new StaticVariable().name);     // access with the anonymous object inside the instance area
+
+        // recursive nature will occur and also call again and again & create again and again a object....
+        // because we will also create an object of the same class in main method also...
+        //StaticVariable sv = new StaticVariable();
+        //System.out.println(sv.x);
+        //System.out.println(sv.name);                       // access with object inside the instance area
+        //System.out.println(new StaticVariable().name);     // access with the anonymous object inside the instance area
     }
 
 
