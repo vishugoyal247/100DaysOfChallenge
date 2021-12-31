@@ -10,7 +10,7 @@ public class CommandLineArgs
            Integer j = Integer.valueOf(args[1]);
         */
 
-        
+
         int sum = 0;
         for (String ele : args )
         {
