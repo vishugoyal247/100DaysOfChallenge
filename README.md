@@ -28,10 +28,10 @@
      > - ### Static Variables
      > - ### Local Variables
      > - ### Primitive and Reference Variable
-* ## DAY 7 [----](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day7)
+* ## DAY 7 [Main Method](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day7)
      > - ### Var-arg methods
      > - ### main() method
-- ## DAY 8[----](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day8)
+- ## DAY 8 [Java Standards](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day8)
      > - ### Command Line Arguments
      > - ### Java Coding Standards
 
