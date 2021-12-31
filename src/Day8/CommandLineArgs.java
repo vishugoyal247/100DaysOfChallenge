@@ -2,13 +2,15 @@ package Day8;
 
 public class CommandLineArgs
 {
-    public static void main(String[] args)
+    public static void main(String... args)
     {
 
-        // Ways to convert String to Integer
-        //Integer i = Integer.parseInt(args[0]);
-        //Integer j = Integer.valueOf(args[1]);
+        /* Ways to convert String to Integer
+           Integer i = Integer.parseInt(args[0]);
+           Integer j = Integer.valueOf(args[1]);
+        */
 
+        
         int sum = 0;
         for (String ele : args )
         {
