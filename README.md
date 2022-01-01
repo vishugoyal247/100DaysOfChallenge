@@ -28,12 +28,26 @@
      > - ### Static Variables
      > - ### Local Variables
      > - ### Primitive and Reference Variable
-* ## DAY 7 [Main Method](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day7)
+* ## DAY 7 [Method](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day7)
      > - ### Var-arg methods
      > - ### main() method
-- ## DAY 8 [Java Standards](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day8)
+- ## DAY 8 [Command line & Java Standards](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day8)
      > - ### Command Line Arguments
      > - ### Java Coding Standards
+- ## DAY 9 [Operators1](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day9)
+     > - ### Increment-Decrement and Arthimetic Operators
+     > - ### String Concatenation and Relational Operators
+     > - ### Equality and Instanceof Operators 
+- ## DAY 10 [Operators2](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day10)
+     > - ### Bitwise and Short Circuit Operators
+     > - ### Typecast and Assignment Operators
+     > - ### Conditional and new and [] Operator
+     > - ### Operator Precedence and Evaluation order of Operands
+- ## DAY 11 [Some similar types](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day11)
+     > - ### new vs newInstance()
+     > - ### InstanceOf vs isInstance()
+     > - ### ClassNotFoundException vs NoClassDefFoundException
+
 
 
 
