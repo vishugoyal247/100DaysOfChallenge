@@ -9,19 +9,19 @@ public class StringConcatenationAndRelational
         - If atleast one operand is string and other operand is anything then it would be String concatenation
         */
 
-        String a = "Etisha";
+        String a = "Vishu";
         int b = 10;
         int c = 20;
         int d = 30;
-        System.out.println(a+b+c+d);      // Etisha102030
-        System.out.println(b+a+c+d);      // 10Etisha2030
-        System.out.println(c+b+a+d);      // 30Etisha30
-        System.out.println(c+b+d+a);      // 60Etisha
+        System.out.println(a+b+c+d);      // Vishu102030
+        System.out.println(b+a+c+d);      // 10Vishu2030
+        System.out.println(c+b+a+d);      // 30Vishu30
+        System.out.println(c+b+d+a);      // 60Vishu
         //  a=b+c+d;                          compile time error
         a=a+b+c;
         //  b=a+c+d;                          compile time error
         b=b+c+d;
-        System.out.println(a);            // Etisha1020
+        System.out.println(a);            // Vishu1020
         System.out.println(b);            // 60
 
 
