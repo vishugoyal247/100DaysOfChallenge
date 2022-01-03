@@ -16,13 +16,13 @@ public class EqualityAndInstanceOf
         Thread t3 = t1;
         Thread t = new Thread();
         Object o = new Object();
-        String s = new String("Etisha");
+        String s = new String("Vishu");
         System.out.println(t==o);                // false (relation b/w child and parent)
         System.out.println(o==s);                // false (relation b/w child and parent)
         //  System.out.println(s==t);                compile time error
 
-        String s1 = new String("Etisha");
-        String s2 = new String("Etisha");
+        String s1 = new String("Vishu");
+        String s2 = new String("Vishu");
         System.out.println(s1==s2);               // false
         System.out.println(s1.equals(s2));        // true
         System.out.println(s2==null);             // false
