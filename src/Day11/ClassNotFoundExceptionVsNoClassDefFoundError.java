@@ -15,7 +15,7 @@ public class ClassNotFoundExceptionVsNoClassDefFoundError
          */
 
         //No Class Def Found Error
-        Demo t = new Demo();           // definition was not provided...
+//        Demo t = new Demo();           // definition was not provided...
 
 
 
