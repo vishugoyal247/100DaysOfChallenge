@@ -47,6 +47,24 @@
      > - ### new vs newInstance()
      > - ### InstanceOf vs isInstance()
      > - ### ClassNotFoundException vs NoClassDefFoundException
+- ## DAY 12 [Flow Control - Selection Statement](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day12)
+     > - ### if-else if-else Statement 
+     > - ### switch Statement 
+     > - ### fall through switch Statement 
+- ## DAY 13 [ Flow Control - Iterative Statement1 ](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day13)
+     > - ### while Statement 
+     > - ### do while Statement 
+     > - ### for Statement 
+- ## DAY 14 [ Flow Control - Iterative Statement2 ](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day14)
+     > - ### infinite loopes
+     > - ### for each Statement
+     > - ### iterator vs iterable
+- ## DAY 15 [ Flow Control- Transfer Statement](https://github.com/goalsachiever/100DaysOfChallenge/tree/master/src/Day15)
+     > - ### Inside switch 
+     > - ### Loop Control
+     > - ### inside labeled blocks
+     > - ### do while vs continue 
+
 
 
 
